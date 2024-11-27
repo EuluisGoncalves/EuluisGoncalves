@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things regarding software development/security
 - 🌱 I’m currently learning how to conduct vulnerability assessments and digital forensics 
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me, email:contacteuluis@gmail.com
+- 📫 How to reach me, email: contacteuluis@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: none... might be turning into a robot :\
 
